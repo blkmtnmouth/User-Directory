@@ -1,0 +1,15 @@
+.btn {
+  margin: 5px;
+  font-family: FontAwesome;
+  background: #76acdc;
+}
+
+input {
+  margin: 2px;
+  font-family: FontAwesome;
+}
+
+label {
+  margin-right: 2px;
+  font-family: FontAwesome;
+}

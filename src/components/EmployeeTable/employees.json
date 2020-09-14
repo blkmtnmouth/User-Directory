@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Annette",
+    "phone": "702-656-6304",
+    "role": "Manager"
+  },
+  {
+    "name": "Kay",
+    "phone": "358-942-4893",
+    "role": "Engineer"
+  },
+  {
+    "name": "Alli",
+    "phone": "786-543-2165",
+    "role": "Engineer"
+  },
+  {
+    "name": "Dan",
+    "phone": "785-854-5785",
+    "role": "Intern"
+  },
+  {
+    "name": "Joseph",
+    "phone": "330-218-5921",
+    "role": "Intern"
+  },
+  {
+    "name": "Hannah",
+    "phone": "642-513-7463",
+    "role": "Engineer"
+  },
+  {
+    "name": "Terri",
+    "phone": "945-352-2315",
+    "role": "Intern"
+  },
+  {
+    "name": "Kathleen",
+    "phone": "923-791-7891",
+    "role": "Manager"
+  }
+]
